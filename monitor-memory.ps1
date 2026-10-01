@@ -7,9 +7,9 @@ $ThresholdPercent = 80
 # SMTP Configuration
 $SMTPServer  = "smtp.gmail.com"
 $SMTPPort    = 587
-$FromAddress = "alerts@martin.com"
-$ToAddress   = "admin@martin.com"
-$Username    = "alerts@martin.com"
+$FromAddress = "thinstreet.ms@gmail.com"
+$ToAddress   = "martinussinaga@ymail.com"
+$Username    = "thinstreet.ms@gmail.com"
 $Password    = "Password :)" 
 
 # ==========================================
